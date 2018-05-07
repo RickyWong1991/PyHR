@@ -76,10 +76,20 @@ WSGI_APPLICATION = 'OneHR.wsgi.application'
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # }
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'onehr',  # 数据库名
+        'USER': 'root',  # 用户名
+        'PASSWORD': 'wwp1991',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
+        'CHARSET': 'utf8',  # 设置字符集，不然会出现中文乱码
     }
+
 }
 
 
