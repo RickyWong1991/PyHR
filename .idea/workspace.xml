@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72475d2c-e6d9-4649-b406-b7b3666fe19e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/serializers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-grid.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-grid.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-reboot.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap-reboot.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PyOneHR/static/style/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/OneHR/settings.py" afterPath="$PROJECT_DIR$/OneHR/settings.py" />
+      <change beforePath="$PROJECT_DIR$/PyOneHR/models.py" afterPath="$PROJECT_DIR$/PyOneHR/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyOneHR/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyOneHR/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/OneHR/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -82,11 +50,33 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OneHR/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="399">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <element signature="e#629#661#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PyOneHR/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uuid.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/uuid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="558" column="4" lean-forward="false" selection-start-line="558" selection-start-column="4" selection-end-line="558" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/PyOneHR/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -113,18 +103,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyOneHR/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyOneHR/apps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -137,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/OneHR/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -159,11 +139,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/OneHR/__init__.py" />
-        <option value="$PROJECT_DIR$/OneHR/settings.py" />
         <option value="$PROJECT_DIR$/PyOneHR/urls.py" />
         <option value="$PROJECT_DIR$/OneHR/urls.py" />
         <option value="$PROJECT_DIR$/PyOneHR/serializers.py" />
         <option value="$PROJECT_DIR$/PyOneHR/forms.py" />
+        <option value="$PROJECT_DIR$/OneHR/settings.py" />
+        <option value="$PROJECT_DIR$/PyOneHR/models.py" />
       </list>
     </option>
   </component>
@@ -213,6 +194,12 @@
               <item name="PyHR" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyHR" type="462c0819:PsiDirectoryNode" />
               <item name="PyOneHR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyHR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyHR" type="462c0819:PsiDirectoryNode" />
+              <item name="PyOneHR" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -376,32 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OneHR/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OneHR/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OneHR/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#629#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PyOneHR/static/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -413,7 +374,7 @@
     <entry file="file://$PROJECT_DIR$/PyOneHR/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -425,6 +386,50 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OneHR/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OneHR/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OneHR/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/uuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="558" column="4" lean-forward="false" selection-start-line="558" selection-start-column="4" selection-end-line="558" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyOneHR/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
